@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 git clone https://github.com/souzaxc/souzaxc.github.io
+cd souzaxc.github.io
+echo "Olá Mundo" > index.html
+git add --all
+git commit -m "Confirmação inicial"
+git push -u origem principal
